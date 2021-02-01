@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;900&display=swap');
+
 
 :root {
 	--dark-color-a: #10a145;
-	--dark-color-b: #7386ff;
+	--dark-color-b: #4fff90;
 	--light-color: #e6e9ff;
 	--success-color: #5cb85c;
 	--error-color: #d9534f;
@@ -15,7 +17,7 @@
 }
 
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 16px;
 	background: var(--light-color);
 	margin: 20px;
